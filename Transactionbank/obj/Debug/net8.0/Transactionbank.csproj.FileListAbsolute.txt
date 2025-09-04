@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\kartik c#\Transactionbank\bin\Debug\net8.0\Transactionbank.exe
+C:\Users\Student\Downloads\kartik c#\Transactionbank\bin\Debug\net8.0\Transactionbank.deps.json
+C:\Users\Student\Downloads\kartik c#\Transactionbank\bin\Debug\net8.0\Transactionbank.runtimeconfig.json
+C:\Users\Student\Downloads\kartik c#\Transactionbank\bin\Debug\net8.0\Transactionbank.dll
+C:\Users\Student\Downloads\kartik c#\Transactionbank\bin\Debug\net8.0\Transactionbank.pdb
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.AssemblyInfo.cs
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.dll
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\refint\Transactionbank.dll
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.pdb
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\Transactionbank.genruntimeconfig.cache
+C:\Users\Student\Downloads\kartik c#\Transactionbank\obj\Debug\net8.0\ref\Transactionbank.dll
